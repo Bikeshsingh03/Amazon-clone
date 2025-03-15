@@ -1,2 +1,2 @@
 # Amazon-clone
-We have make Amazon Clone.
+We did make Amazon clone.
